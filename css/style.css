@@ -1,0 +1,156 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700;800&display=swap');
+
+body {
+  padding-top: 66px;
+  color: #5a5a5a;
+  font-family: 'Open Sans', sans-serif !important;
+  font-weight: 400;
+  position: relative;
+}
+
+p{
+    line-height: 2;
+}
+
+h1{
+    line-height: inherit;
+}
+
+.profil-img{
+    width: 40%;
+}
+.c-navbar{
+    background-color: white !important;
+    box-shadow: 0 3px 60px rgba(0,0,0,.16);
+    border-bottom: 0px solid;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 20;
+}
+
+.c-slideshow h2{
+    line-height: inherit;
+    font-weight: 500;
+}
+
+.c-button{
+    font-weight: 700;
+    font-size: 14px;
+    color: #165ED6 !important;
+    text-transform: capitalize;
+    padding: 5px 45px;
+    border-radius: 8px;
+    outline: none;
+}
+
+
+
+.red-line{
+    position: relative;
+    margin-bottom: 50px;
+    text-align: left;
+}
+
+.red-line:before{
+    content: "";
+    width: 120px;
+    height: 5px;
+    background-color: #FD0D1B;
+    /* top: -20px; */
+    /* right: auto; */
+    margin-bottom: 20px;
+    left: 0;
+    display: block;
+    position: relative;
+}
+
+.uk-subnav>*{
+    margin-bottom: 20px;
+}
+
+.c-subnav>*>:first-child{
+    color: #466DAD;
+    text-transform: capitalize;
+    font-weight: bold;
+    padding: 15px 30px;
+    background: white;
+    border-radius: 10px;
+}
+
+.c-card .uk-card-media-top img{
+    border-radius: 10px;
+}
+
+.c-card .uk-card-body{ 
+    text-align: left;
+}
+
+
+.c-section .uk-container{
+    text-align: center;
+    position: relative;
+}
+
+.icon-row{
+    display: flex;
+    max-width: 75%;
+    margin-bottom: 10px;
+}  
+
+
+.icon-row .uk-icon{
+    margin-top:5px;
+    margin-right: 10px;
+}
+
+a.uk-link-reset.c-totop{
+    text-decoration: none;
+    color: red !important;
+    display: block;
+}
+
+a.uk-link-reset.c-totop svg{
+    display: none;
+}
+
+.c-navbar .uk-navbar-nav>li>a{
+    text-transform: capitalize;
+}
+
+.c-navbar .uk-navbar-nav>li.uk-active>a{
+    font-weight: 700;
+    color: red;
+}
+
+.c-navbar .uk-container{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.uk-section-muted{
+    background-color: #EFF1F4 !important;
+}
+
+.c-lightbox > div:first-child,
+.c-lightbox > div:first-child a{
+    width: 100%;
+}
+
+.uk-container-large{
+    max-width: 1080px;
+}
+
+@media(max-width: 767px){
+    .profil-img{
+        width: 100%;
+    }
+    h1{
+        font-size: 30px;
+    }
+}
+
+
