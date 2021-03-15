@@ -71,6 +71,30 @@ h1{
     margin-bottom: 20px;
 }
 
+.uk-slideshow-items>li:after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    background: rgb(15 17 153 / 25%);
+    position: absolute;
+}
+
+.uk-position-small.uk-position-center{
+    z-index: 1;
+}
+
+a.uk-inline{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+a.uk-inline .uk-icon {
+    position: absolute;
+    display: flex;
+    color: white;
+}
+
 .c-subnav>*>:first-child{
     color: #466DAD;
     text-transform: capitalize;
