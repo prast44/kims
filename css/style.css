@@ -168,6 +168,54 @@ a.uk-link-reset.c-totop svg{
     max-width: 1080px;
 }
 
+.product-group .uk-card-body h5:nth-of-type(1){
+    font-weight: bold;
+}
+
+.product-group .uk-card-body h5:nth-of-type(2){
+     display: none;
+}
+.product-group a .uk-card-media-top{
+    position: relative;
+}
+
+.product-group a .uk-card-media-top:before, .photo-group a:before{
+    content: "";
+    background-color: rgb(30 135 240 / 0%);
+    background-image: url(../img/icon_search_white.png);
+    background-repeat: no-repeat;
+    background-size: 48px;
+    background-position: 150% center;
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    position: absolute;
+    transition: all .5s;
+}
+
+.product-group a:hover{
+    text-decoration: none;
+}
+
+.product-group a:hover .uk-card-media-top:before, .photo-group a:hover:before{
+    content: "";
+    background-color: rgb(30 135 240 / 50%);
+    background-image: url(../img/icon_search_white.png);
+    background-repeat: no-repeat;
+    background-size: 48px;
+    background-position: center;
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    position: absolute;
+}
+
+.product-group a:hover h5{
+    text-decoration: none;
+    color: rgb(30 135 240);
+    transition: color .5s;
+}
+
 @media(max-width: 767px){
     .profil-img{
         width: 100%;

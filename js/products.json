@@ -1,0 +1,138 @@
+[
+    {
+        "id": 1,
+        "category": "beauty-health",
+        "title": "Attractive Glowing Series ",
+        "desc": "Radiance Gold Lip Serum Glowing Cushion",
+        "price": "Rp. 816.000",
+        "img": "img/thumb_produk_1.jpg"
+    },
+    {
+        "id": 2,
+        "category": "beauty-health",
+        "title": "Beauty Luxury Series ",
+        "desc": "Radiance Gold Lip Serum Glowing Cushion",
+        "price": "Rp. 939.250",
+        "img": "img/thumb_produk_2.jpg"
+    },
+    {
+        "id": 3,
+        "category": "beauty-health",
+        "title": "Glowing Acne Series",
+        "desc": "Acne Rejuvenation Creme Glowing Cushion Radiance Gold Lip Serum",
+        "price": "Rp. 1.058.250",
+        "img": "img/thumb_produk_3.jpg"
+    },
+    {
+        "id": 4,
+        "category": "handycraft",
+        "title": "Payung Terbalik Logo Iwapi",
+        "desc": "",
+        "price": "Rp. 120.000",
+        "img": "img/thumb_produk_4.jpg"
+    },
+    {
+        "id": 5,
+        "category": "handycraft",
+        "title": "Tumbler Sakura Gravir Silver 1 Sisi",
+        "desc": "",
+        "price": "Rp. 115.000",
+        "img": "img/thumb_produk_5.jpg"
+    },
+    {
+        "id": 6,
+        "category": "handycraft",
+        "title": "Tumbler Biru Gravir Silver 1 Sisi",
+        "desc": "",
+        "price": "Rp. 160.000",
+        "img": "img/thumb_produk_8.jpg"
+    },
+    {
+        "id": 7,
+        "category": "handycraft",
+        "title": "Kartu Mandiri E-Money Logo Iwapi",
+        "desc": "",
+        "price": "Rp. 90.000",
+        "img": "img/thumb_produk_6.jpg"
+    },
+    {
+        "id": 8,
+        "category": "handycraft",
+        "title": "Tumbler Smart LED Sablon Biru 1 Sisi",
+        "desc": "",
+        "price": "Rp. 170.000",
+        "img": "img/thumb_produk_7.jpg"
+    },
+    {
+        "id": 9,
+        "category": "handycraft",
+        "title": "Keset Anyam",
+        "desc": "",
+        "price": "Rp. 10.000",
+        "img": "img/thumb_handycraft_1.jpg"
+    },
+    {
+        "id": 10,
+        "category": "handycraft",
+        "title": "Keset Anyam Bulat",
+        "desc": "",
+        "price": "Rp. 9.000",
+        "img": "img/thumb_handycraft_2.jpg"
+    },
+    {
+        "id": 11,
+        "category": "handycraft",
+        "title": "Keset Anyam Tebal",
+        "desc": "",
+        "price": "Rp. 17.000",
+        "img": "img/thumb_handycraft_3.jpg"
+    },
+    {
+        "id": 12,
+        "category": "beauty-health",
+        "title": "Pembersih Lantai 5 liter",
+        "desc": "",
+        "price": "Rp. 60.000",
+        "img": "img/thumb_health_1.jpg"
+    },
+    {
+        "id": 13,
+        "category": "beauty-health",
+        "title": "Sabun Cuci Piring 5 liter",
+        "desc": "",
+        "price": "Rp. 60.000",
+        "img": "img/thumb_health_2.jpg"
+    },
+    {
+        "id": 14,
+        "category": "beauty-health",
+        "title": "Sabun Cuci Tangan 5 liter",
+        "desc": "",
+        "price": "Rp. 60.000",
+        "img": "img/thumb_health_3.jpg"
+    },
+    {
+        "id": 15,
+        "category": "beauty-health",
+        "title": "Pembersih Kaca 5 liter",
+        "desc": "",
+        "price": "Rp. 60.000",
+        "img": "img/thumb_health_4.jpg"
+    },
+    {
+        "id": 16,
+        "category": "beauty-health",
+        "title": "Karbol Sereh 5 liter",
+        "desc": "",
+        "price": "Rp. 60.000",
+        "img": "img/thumb_health_5.jpg"
+    },
+    {
+        "id": 17,
+        "category": "umroh-haji",
+        "title": "Paket Umroh Silver",
+        "desc": "",
+        "price": "Rp. 20.000.000",
+        "img": "img/thumb_umroh_1.jpg"
+    }
+]
